@@ -4,7 +4,7 @@
 
 # Description
 
-Jot down a reminder! User may be able to create notes with titles and contents. User may be able to see a list of their notes and select and view a specific note.
+Jot down a note! User may be able to create notes with titles and contents. User may be able to see a list of their notes and select and view a specific note.
 
 # Prerequisites
 
@@ -20,7 +20,7 @@ Andrea Alonso
 
 # How to use
 
-User may create a new note. User follows prompts to view saved notes at anytime.
+User may create a new note. User follows prompts to view saved notes.
 
 # License
 
